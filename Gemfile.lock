@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aspector (0.14.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aspector!
+
+BUNDLED WITH
+   1.15.1
